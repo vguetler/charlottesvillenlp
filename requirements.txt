@@ -1,1 +1,1 @@
-
+Dependencies: nltk, gensim, vaderSentiment, tweepy, pandas, matplotlib, wordcloud
