@@ -39,15 +39,6 @@ This type of analysis has direct applications in **cyber threat intelligence** a
 
 
 
-<img width="674" height="25" alt="image" src="https://github.com/user-attachments/assets/78528e0e-b24f-4eb0-b655-4153c9c3c558" />
-
-
-
-
-
-<img width="1238" height="68" alt="image" src="https://github.com/user-attachments/assets/736534d5-678c-447f-9f72-684ad6f8adb7" />
-
-
 ---
 
 
