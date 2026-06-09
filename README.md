@@ -34,8 +34,19 @@ This type of analysis has direct applications in **cyber threat intelligence** a
 ## Key findings
 
 - Sentiment shifted significantly in the hours following the car attack, with a marked increase in negative and grief/anger-coded tweets
-- LDA revealed distinct topic clusters: [**update with your actual topics — e.g., condemnation/solidarity, political framing, media coverage, counter-protest**]
-- [Add 1–2 more findings from your actual analysis]
+- The NRC lexicon from Saif Mohammad and Peter Turney categorizes words in a binary fashion into categories of positive, negative, anger, anticipation, disgust, fear, joy, sadness, surprise, and trust. 
+- LDA revealed distinct topic clusters: e.g., condemnation/solidarity, political framing, media coverage, counter-protest. The most common words are Trump, white, violence, nazis, vice, killed, hate, attack, racist, and were flagged as negative; surprisingly, protest and protesting are also considered negative terms. 
+
+
+
+<img width="674" height="25" alt="image" src="https://github.com/user-attachments/assets/78528e0e-b24f-4eb0-b655-4153c9c3c558" />
+
+
+
+
+
+<img width="1238" height="68" alt="image" src="https://github.com/user-attachments/assets/736534d5-678c-447f-9f72-684ad6f8adb7" />
+
 
 ---
 
