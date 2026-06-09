@@ -37,6 +37,7 @@ This type of analysis has direct applications in **cyber threat intelligence** a
 - The NRC lexicon from Saif Mohammad and Peter Turney categorizes words in a binary fashion into categories of positive, negative, anger, anticipation, disgust, fear, joy, sadness, surprise, and trust. 
 - LDA revealed distinct topic clusters: e.g., condemnation/solidarity, political framing, media coverage, counter-protest. The most common words are Trump, white, violence, nazis, vice, killed, hate, attack, racist, and were flagged as negative; surprisingly, protest and protesting are also considered negative terms. 
 
+<img width="504" height="360" alt="image" src="https://github.com/user-attachments/assets/68ab2076-4fd8-4ede-acd2-7468f1f1828a" />
 
 
 ---
