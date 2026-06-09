@@ -39,36 +39,14 @@ This type of analysis has direct applications in **cyber threat intelligence** a
 
 ---
 
-## Repository contents
-
-```
-├── CharlottesvilleNLP.ipynb   # Full analysis notebook
-├── requirements.txt           # Dependencies (add this — see Setup below)
-└── README.md
-```
 
 > ⚠️ **Data note:** Raw tweet data is not included in this repository in compliance with Twitter/X's developer terms of service, which prohibit redistribution of tweet content. The notebook documents the collection methodology. Contact [vguetler@gmail.com](mailto:vguetler@gmail.com) for information about replicating the dataset.
 
 ---
 
-## Setup
-
-```bash
-git clone https://github.com/vguetler/charlottesvillenlp.git
-cd charlottesvillenlp
-pip install -r requirements.txt
-jupyter notebook CharlottesvilleNLP.ipynb
-```
-
-**Dependencies:** `nltk`, `gensim`, `vaderSentiment`, `tweepy`, `pandas`, `matplotlib`, `wordcloud`
-
-*(Add a `requirements.txt` with pinned versions for full reproducibility)*
-
----
-
 ## Related work
 
-This analysis is part of a broader research program on computational methods for extremism and cybercrime research:
+This analysis is part of a broader research program on computational methods for violent extremism and cybercrime research:
 
 - **Dissertation:** *Exploring Cyberterrorism, Topic Models & Social Networks of Jihadist Dark Web Forums* — West Virginia University, 2022
 - **In progress:** *Cyber Threat Analysis from Hacker Forums Using Qualitative Computational Techniques*
