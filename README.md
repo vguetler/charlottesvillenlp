@@ -30,7 +30,6 @@ This type of analysis has direct applications in **cyber threat intelligence** a
 | Visualization | Word clouds, sentiment over time, topic distributions | `matplotlib`, `wordcloud` |
 
 
-<img width="1393" height="633" alt="image" src="https://github.com/user-attachments/assets/f489374c-4a0b-46a7-8504-931ce4920c99" />
 
 ---
 
